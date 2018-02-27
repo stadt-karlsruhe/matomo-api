@@ -13,7 +13,7 @@ A simple, pythonic wrapper around [Matomo's API](https://developer.matomo.org/ap
 
 ## Installation
 
-This package requires Python 3.3 or later.
+This package requires Python 3.4 or later.
 
     pip install git+https://github.com/stadt-karlsruhe/matomo-api.git
 
